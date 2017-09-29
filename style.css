@@ -1,0 +1,76 @@
+body  {
+		text-align: center;
+		font-size: 18px;
+		font-family: Helvetica, Arial, sans-serif;
+		background-color: lightblue;
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+		}
+		
+		
+header  { 
+		border: 1px lightblue; 
+		color: black;
+		margin-bottom: 20px;
+		}
+		
+#wrapper  {
+		background: lightblue;
+		border: 1px solid blue;
+		width: 1000px;
+		background-image: url(img/bluesky.jpg);
+		background-size: cover;
+		}
+		
+article {
+		border: 1px lightblue;
+		text-align: center;
+
+	}
+		
+.stanza   {
+		font-size: 1.3em;
+		font-family: Georgia,serif;
+		color: white;
+    	text-shadow: 2px 2px rgba(0,0,0,.75);
+		}
+		
+.stanza h3  {
+		font-size: 30px;
+		color: purple;
+		}
+		
+#bio p:first-of-type  {
+		font-style: italic;
+		color: blue;
+		}
+		
+a:link, a:visited   {
+	color: darkblue;
+	text-decoration: none;
+	}
+	
+a:hover, a:focus  {
+	color: orange;
+	}
+	
+#bio a:link, #bio a:visited   {
+	color: blue;
+	}
+	
+#bio a:hover, #bio a:focus  {
+	color: darkblue;
+	}
+	
+ 
+
+
+
+
+
+
+
+
+
+
+	
